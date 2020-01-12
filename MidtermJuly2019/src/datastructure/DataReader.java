@@ -56,18 +56,23 @@ public class DataReader {
 		Stack<String> myStack = new Stack<String>();
 		List<String> myList = new LinkedList<String>();
 		for(String element : storeArray){
-			myStack.add(element);
 			myStack.push(element);
 		}
-		System.out.println("The LinkedList LIFO");
+		for (String element : storeArray){
+			myList.add(element);
+		}
+		System.out.println("***The LinkedList LIFO****\n");
 		Iterator<String> it = myList.iterator();
 		while(it.hasNext()){
-			System.out.println(it.next() + " ");
+			System.out.println(it.next());
 		}
-		System.out.println(" The Stack  LIFO");
+		System.out.println("\n*****The Stack  LIFO****\n");
 
 		while(!myStack.isEmpty()){
-			System.out.println(myStack.pop() + "  ");
+			System.out.print("peek: ");
+			System.out.println(myStack.peek());
+			System.out.print("pop: ");
+			System.out.println(myStack.pop());
 		}
 
 
