@@ -43,31 +43,17 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.UseArrayList">
+  <component name="RunManager" selected="Application.UseMap">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
-    <configuration name="ConnectToMongoDB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="databases.ConnectToMongoDB" />
+    <configuration name="CollectionView" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructure.CollectionView" />
       <module name="CodingExamJuly2019" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="databases.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CsvReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codelab.status.CsvReader" />
-      <module name="CodingExamJuly2019" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="codelab.status.*" />
+          <option name="PATTERN" value="datastructure.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,6 +103,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UseMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructure.UseMap" />
+      <module name="CodingExamJuly2019" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="datastructure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -140,19 +140,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ConnectToMongoDB" />
-      <item itemvalue="Application.CsvReader" />
       <item itemvalue="Application.DataReader" />
       <item itemvalue="Application.Test" />
       <item itemvalue="Application.UseArrayList" />
+      <item itemvalue="Application.CollectionView" />
+      <item itemvalue="Application.UseMap" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UseMap" />
+        <item itemvalue="Application.CollectionView" />
         <item itemvalue="Application.UseArrayList" />
         <item itemvalue="Application.DataReader" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.ConnectToMongoDB" />
-        <item itemvalue="Application.CsvReader" />
       </list>
     </recent_temporary>
   </component>
@@ -190,22 +190,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="218" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1578848328499" />
-    <state width="1865" height="264" key="GridCell.Tab.0.bottom" timestamp="1578859148949">
+    <state width="1865" height="264" key="GridCell.Tab.0.bottom" timestamp="1578864241370">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1865" height="264" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578859148949" />
-    <state width="1865" height="264" key="GridCell.Tab.0.center" timestamp="1578859148949">
+    <state width="1865" height="264" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578864241370" />
+    <state width="1865" height="264" key="GridCell.Tab.0.center" timestamp="1578864241370">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1865" height="264" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578859148949" />
-    <state width="1865" height="264" key="GridCell.Tab.0.left" timestamp="1578859148949">
+    <state width="1865" height="264" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578864241370" />
+    <state width="1865" height="264" key="GridCell.Tab.0.left" timestamp="1578864241370">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1865" height="264" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578859148949" />
-    <state width="1865" height="264" key="GridCell.Tab.0.right" timestamp="1578859148949">
+    <state width="1865" height="264" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578864241370" />
+    <state width="1865" height="264" key="GridCell.Tab.0.right" timestamp="1578864241370">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1865" height="264" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578859148949" />
+    <state width="1865" height="264" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578864241370" />
     <state x="352" y="0" key="SettingsEditor" timestamp="1578842512614">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
