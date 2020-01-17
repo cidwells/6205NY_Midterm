@@ -41,17 +41,52 @@ public class Numbers {
 		System.out.println("Total Execution Time of " + num.length + " numbers in Insertion Sort take: " + insertionSortExecutionTime + " milli sec");
 
 		//By following above, Continue for rest of the Sorting Algorithm....
+		//Bubble
+		randomize (num, n);
+
+		algo.bubbleSort(num);
+		long bubbleSortExecutionTime = algo.executionTime;
+		System.out.println("Total Execution Time of " + num.length + " numbers in Bubble Sort take: " + bubbleSortExecutionTime + " milli sec");
+
+		//Merge
+		randomize (num, n);
+
+		algo.mergeSort(num,0,n-1);
+		long mergeSortExecutionTime = algo.executionTime;
+		System.out.println("Total Execution Time of " + num.length + " numbers in Merge Sort take: " + mergeSortExecutionTime + " milli sec");
+
+		//Quick
+		randomize (num, n);
+
+		algo.quickSort(num, 0, n-1);
+		long quickSortExecutionTime = algo.executionTime;
+		System.out.println("Total Execution Time of " + num.length + " numbers in Quick Sort take: " + quickSortExecutionTime + " milli sec");
+
+		//Heap
+		randomize (num, n);
+
+		algo.heapSort(num);
+		long heapSortExecutionTime = algo.executionTime;
+		System.out.println("Total Execution Time of " + num.length + " numbers in Heap Sort take: " + heapSortExecutionTime + " milli sec");
+
+		//Bucket
+		randomize (num, n);
+
+		algo.bucketSort(num,1000000);
+		System.out.println("Total Execution Time of "+ num.length + " numbers in BucketSort take: " + algo.executionTime + " milli sec");
 
 
+		//Shell
+		randomize (num, n);
 
-
-
-
+		algo.shellSort(num);
+		long shellSortExecutionTime = algo.executionTime;
+		System.out.println("Total Execution Time of " + num.length + " numbers in Shell Sort take: " + shellSortExecutionTime + " milli sec");
 
 
 
 		//Come to conclusion about which Sorting Algo is better in given data set.
-
+		//Bucket is better for this data set
 	}
 
 	public static void storeRandomNumbers(int [] num){
