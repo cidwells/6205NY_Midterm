@@ -11,6 +11,17 @@ public class FindLowestDifference {
         int [] array2 = {18,25,41,47,17,36,14,19};
 
 
+        int lowest = array2[0];
+        for(int i=0;i<array1.length;i++){
+            for(int a=0;a<array2.length; a++){
+
+                int result = Math.abs(array2[a]-array1[i]);
+                if(result<lowest)
+                { lowest = result;
+                }
+            }
+        }
+        System.out.println(lowest);
 
 
     }
