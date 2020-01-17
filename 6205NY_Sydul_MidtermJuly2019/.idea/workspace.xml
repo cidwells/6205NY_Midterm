@@ -28,11 +28,11 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/Java Projects/NumberPalindrome" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -43,17 +43,17 @@
       <recent name="$PROJECT_DIR$/lib" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CnnAPI">
+  <component name="RunManager" selected="Application.UnitTestingStringProblem">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
-    <configuration name="CnnAPI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="json.parser.CnnAPI" />
+    <configuration name="DetermineLargestWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.problems.DetermineLargestWord" />
       <module name="CodingExamJuly2019" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="json.parser.*" />
+          <option name="PATTERN" value="string.problems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,13 +61,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JsonReaderUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="json.parser.JsonReaderUtil" />
+    <configuration name="DuplicateWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.problems.DuplicateWord" />
       <module name="CodingExamJuly2019" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="json.parser.*" />
+          <option name="PATTERN" value="string.problems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,13 +75,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.Numbers" />
+    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.problems.Palindrome" />
       <module name="CodingExamJuly2019" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithm.*" />
+          <option name="PATTERN" value="string.problems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,13 +89,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="math.problems.PrimeNumber" />
+    <configuration name="Permutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.problems.Permutation" />
       <module name="CodingExamJuly2019" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="math.problems.*" />
+          <option name="PATTERN" value="string.problems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,13 +103,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UnitTestingMath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="math.problems.UnitTestingMath" />
+    <configuration name="UnitTestingStringProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.problems.UnitTestingStringProblem" />
       <module name="CodingExamJuly2019" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="math.problems.*" />
+          <option name="PATTERN" value="string.problems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,19 +140,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.PrimeNumber" />
-      <item itemvalue="Application.Numbers" />
-      <item itemvalue="Application.UnitTestingMath" />
-      <item itemvalue="Application.JsonReaderUtil" />
-      <item itemvalue="Application.CnnAPI" />
+      <item itemvalue="Application.DetermineLargestWord" />
+      <item itemvalue="Application.DuplicateWord" />
+      <item itemvalue="Application.Palindrome" />
+      <item itemvalue="Application.Permutation" />
+      <item itemvalue="Application.UnitTestingStringProblem" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CnnAPI" />
-        <item itemvalue="Application.JsonReaderUtil" />
-        <item itemvalue="Application.UnitTestingMath" />
-        <item itemvalue="Application.Numbers" />
-        <item itemvalue="Application.PrimeNumber" />
+        <item itemvalue="Application.UnitTestingStringProblem" />
+        <item itemvalue="Application.Permutation" />
+        <item itemvalue="Application.Palindrome" />
+        <item itemvalue="Application.DuplicateWord" />
+        <item itemvalue="Application.DetermineLargestWord" />
       </list>
     </recent_temporary>
   </component>
@@ -194,50 +194,54 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1151" y="453" width="467" height="283" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1579288855894" />
-    <state x="690" y="218" key="FileChooserDialogImpl" timestamp="1579227424465">
+    <state x="690" y="218" key="FileChooserDialogImpl" timestamp="1579293641463">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="690" y="218" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1579227424465" />
-    <state width="619" height="263" key="GridCell.Tab.0.bottom" timestamp="1579290244968">
+    <state x="690" y="218" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1579293641463" />
+    <state width="932" height="263" key="GridCell.Tab.0.bottom" timestamp="1579295524274">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="619" height="263" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579290244968" />
-    <state width="619" height="263" key="GridCell.Tab.0.center" timestamp="1579290244968">
+    <state width="932" height="263" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579295524274" />
+    <state width="932" height="263" key="GridCell.Tab.0.center" timestamp="1579295524274">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="619" height="263" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579290244968" />
-    <state width="619" height="263" key="GridCell.Tab.0.left" timestamp="1579290244968">
+    <state width="932" height="263" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579295524274" />
+    <state width="932" height="263" key="GridCell.Tab.0.left" timestamp="1579295524274">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="619" height="263" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579290244968" />
-    <state width="619" height="263" key="GridCell.Tab.0.right" timestamp="1579290244968">
+    <state width="932" height="263" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579295524274" />
+    <state width="932" height="263" key="GridCell.Tab.0.right" timestamp="1579295524274">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="619" height="263" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579290244968" />
-    <state width="1865" height="332" key="GridCell.Tab.1.bottom" timestamp="1579243254692">
+    <state width="932" height="263" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579295524274" />
+    <state width="932" height="332" key="GridCell.Tab.1.bottom" timestamp="1579294478513">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1865" height="332" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579243254692" />
-    <state width="1865" height="332" key="GridCell.Tab.1.center" timestamp="1579243254692">
+    <state width="932" height="332" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579294478513" />
+    <state width="932" height="332" key="GridCell.Tab.1.center" timestamp="1579294478513">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1865" height="332" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579243254692" />
-    <state width="1865" height="332" key="GridCell.Tab.1.left" timestamp="1579243254692">
+    <state width="932" height="332" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579294478513" />
+    <state width="932" height="332" key="GridCell.Tab.1.left" timestamp="1579294478513">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1865" height="332" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579243254692" />
-    <state width="1865" height="332" key="GridCell.Tab.1.right" timestamp="1579243254692">
+    <state width="932" height="332" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579294478513" />
+    <state width="932" height="332" key="GridCell.Tab.1.right" timestamp="1579294478513">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1865" height="332" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579243254692" />
-    <state x="352" y="0" key="SettingsEditor" timestamp="1579242620305">
+    <state width="932" height="332" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579294478513" />
+    <state x="352" y="0" key="SettingsEditor" timestamp="1579292426416">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="352" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1579242620305" />
+    <state x="352" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1579292426416" />
     <state x="591" y="302" key="com.intellij.ide.util.TipDialog" timestamp="1578841877413">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="591" y="302" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578841877413" />
+    <state x="284" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1579292421477">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="284" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1579292421477" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
