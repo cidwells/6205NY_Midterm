@@ -19,14 +19,14 @@ public class Factorial {
         System.out.println(myFactorial.factorialRecursive(5));
     }
 
-    public int getIterativeFactorial(int num) {
+    public static int getIterativeFactorial(int num) {
         int factorial = 1;
         for (int i = 1; i <= num; i++) {
             factorial = factorial * i;
         }
         return factorial;
     }
-    public int factorialRecursive(int num)
+    public static int factorialRecursive(int num)
     {
         if (num == 0)
             return 1;
