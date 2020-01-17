@@ -28,7 +28,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$USER_HOME$/Documents/Java Projects/Mentoring4" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -43,7 +43,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FindMissingNumber">
+  <component name="RunManager" selected="Application.LowestNumber">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -103,13 +103,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UseQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datastructure.UseQueue" />
+    <configuration name="LowestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="math.problems.LowestNumber" />
       <module name="CodingExamJuly2019" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="datastructure.*" />
+          <option name="PATTERN" value="math.problems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,19 +140,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.UseQueue" />
-      <item itemvalue="Application.Fibonacci" />
       <item itemvalue="Application.Factorial" />
+      <item itemvalue="Application.Fibonacci" />
       <item itemvalue="Application.FindLowestDifference" />
       <item itemvalue="Application.FindMissingNumber" />
+      <item itemvalue="Application.LowestNumber" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LowestNumber" />
         <item itemvalue="Application.FindMissingNumber" />
         <item itemvalue="Application.FindLowestDifference" />
         <item itemvalue="Application.Factorial" />
         <item itemvalue="Application.Fibonacci" />
-        <item itemvalue="Application.UseQueue" />
       </list>
     </recent_temporary>
   </component>
@@ -190,26 +190,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="778" y="402" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578842087272" />
-    <state x="690" y="218" key="FileChooserDialogImpl" timestamp="1578848328499">
+    <state x="690" y="218" key="FileChooserDialogImpl" timestamp="1579227424465">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="690" y="218" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1578848328499" />
-    <state width="1238" height="264" key="GridCell.Tab.0.bottom" timestamp="1579224769052">
+    <state x="690" y="218" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1579227424465" />
+    <state width="1865" height="264" key="GridCell.Tab.0.bottom" timestamp="1579228767177">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1238" height="264" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579224769052" />
-    <state width="1238" height="264" key="GridCell.Tab.0.center" timestamp="1579224769052">
+    <state width="1865" height="264" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579228767177" />
+    <state width="1865" height="264" key="GridCell.Tab.0.center" timestamp="1579228767177">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1238" height="264" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579224769052" />
-    <state width="1238" height="264" key="GridCell.Tab.0.left" timestamp="1579224769052">
+    <state width="1865" height="264" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579228767177" />
+    <state width="1865" height="264" key="GridCell.Tab.0.left" timestamp="1579228767177">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1238" height="264" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579224769052" />
-    <state width="1238" height="264" key="GridCell.Tab.0.right" timestamp="1579224769052">
+    <state width="1865" height="264" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579228767177" />
+    <state width="1865" height="264" key="GridCell.Tab.0.right" timestamp="1579228767177">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1238" height="264" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579224769052" />
+    <state width="1865" height="264" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579228767177" />
     <state x="352" y="0" key="SettingsEditor" timestamp="1578842512614">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
