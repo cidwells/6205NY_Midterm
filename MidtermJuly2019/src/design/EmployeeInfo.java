@@ -1,5 +1,6 @@
 package design;
 
+import java.util.Date;
 import java.util.Scanner;
 
 public class EmployeeInfo {
@@ -16,6 +17,20 @@ public class EmployeeInfo {
  * Use Exception Handling.
  *
  */
+ 	private String name;
+ 	private int employeeId;
+	private String deptName;
+	private static double salary;
+
+	public EmployeeInfo(){
+
+	}
+	public EmployeeInfo(String name, int employeeId, String deptName,double salary) {
+		this.name = name;
+		this.employeeId = employeeId;
+		this.deptName = deptName;
+		this.salary = salary;
+	}
 
 	/*
 	 * declare few static and final fields and some non-static fields

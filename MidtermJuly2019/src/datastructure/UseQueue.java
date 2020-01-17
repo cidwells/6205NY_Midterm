@@ -12,7 +12,7 @@ public class UseQueue {
 		 * Use For Each loop and while loop with Iterator to retrieve data.
 		 * 
 		 */
-		Queue<String> myQueue = new LinkedList<>();
+		Queue<String> myQueue = new LinkedList<String>();
 		myQueue.add("Sun");
 		myQueue.add("Mercury");
 		myQueue.add("Venus");

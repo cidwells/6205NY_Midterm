@@ -23,4 +23,10 @@ public interface Employee {
 	//employee benefit
 	public void benefitLayout();
 
+	//employee retirement
+	public void retirement();
+
+	//employee exit
+	public void exit();
+
 }
