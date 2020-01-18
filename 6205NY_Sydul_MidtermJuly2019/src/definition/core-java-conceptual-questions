@@ -3,43 +3,76 @@ Please answer the below core-java Questions:
 What is programing language?
 A.
 
-
+Language to write software
 
 
 What jdk contains or composed of and define each components?
 A.
-
-
+1. Java runtime environment, which is tha java virtual machine and libraries
+2. Interpreter which turns source code to machine language
 
 
 
 What is IDE?
-A.
+A. software that lets you write and debug programming language;
 
 
 
 What are the IDEs available in the market to support java?
-A.
+A. Intelli j , eclipse
 
 
 
 Explain the entire java life cycle.
+writing source code, compiling source code, turn to byte code, execute byte code with jvm
+
 what is class?
+the blue print of an object
+
 What is object?
+instance of a class
+
 What is the entry point of an application?
+Main method
+
 Why main is static?
+JVM looks for it before making objects
+
 Which class is the superclass of all classes?
+java.lang.Object
+
 What is difference between path and classpath variables?
+path is the computer system and class path is the development environment
+
 What is the difference between an Interface and Abstract class?
+interface can only declare methods but Abstract can have abstract methods and initialized methods
+
 Can you make an Object from an Interface and Abstract class ? if not how do you use it ?
+no, you can only use them to declare methods and define methods
+
 what is Access Specifier?
+it denotes the accessibility of classes, methods and data types for object oriented languages
+
 What is OOP ? Define each feature of java OOP.
+Object oriented program, key concepts of oop are encapsulation, inheritance, abstraction, polymorphism
+
 What is Java Package and which package is imported by default?
+a java package organizes related classes and interface java.lang is imported by default
+
 What is API? Name list of API that you have used so far.
+application programming interface. I've used java api
+
 Does java support multiple inheritance, explain why or why not?
+no only multiple interface implementation
+
 What is method overloading and when it happens?
+having a method with the same name but different signature this is polymorphism implementation
+
 Explain exceptions in java and how to handle it.
+errors that can happen in a program we use try catch method to handle them
+
 What is static keyword in java? How it has been used in variables and methods ?
+
 What is final and how it has been used variables and methods?
 What is final, finally and finalize?
 What is a constructor ?
