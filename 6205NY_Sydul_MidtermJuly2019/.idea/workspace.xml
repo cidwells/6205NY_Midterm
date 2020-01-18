@@ -43,12 +43,12 @@
       <recent name="$PROJECT_DIR$/lib" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.UnitTestingStringProblem">
+  <component name="RunManager" selected="Application.FortuneEmployee">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
-    <configuration name="DetermineLargestWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string.problems.DetermineLargestWord" />
+    <configuration name="DuplicateWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.problems.DuplicateWord" />
       <module name="CodingExamJuly2019" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -61,13 +61,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DuplicateWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string.problems.DuplicateWord" />
+    <configuration name="FortuneEmployee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="design.FortuneEmployee" />
       <module name="CodingExamJuly2019" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="string.problems.*" />
+          <option name="PATTERN" value="design.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,19 +140,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.DetermineLargestWord" />
       <item itemvalue="Application.DuplicateWord" />
       <item itemvalue="Application.Palindrome" />
       <item itemvalue="Application.Permutation" />
       <item itemvalue="Application.UnitTestingStringProblem" />
+      <item itemvalue="Application.FortuneEmployee" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FortuneEmployee" />
         <item itemvalue="Application.UnitTestingStringProblem" />
         <item itemvalue="Application.Permutation" />
         <item itemvalue="Application.Palindrome" />
         <item itemvalue="Application.DuplicateWord" />
-        <item itemvalue="Application.DetermineLargestWord" />
       </list>
     </recent_temporary>
   </component>
@@ -182,10 +182,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1290" y="180" key="#com.intellij.ide.util.MemberChooser" timestamp="1579211997588">
+    <state x="1290" y="180" key="#com.intellij.ide.util.MemberChooser" timestamp="1579309254549">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1290" y="180" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1579211997588" />
+    <state x="1290" y="180" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1579309254549" />
     <state x="778" y="402" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1578842087272">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -198,22 +198,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="218" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1579293641463" />
-    <state width="932" height="263" key="GridCell.Tab.0.bottom" timestamp="1579295524274">
+    <state width="618" height="263" key="GridCell.Tab.0.bottom" timestamp="1579310534369">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="932" height="263" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579295524274" />
-    <state width="932" height="263" key="GridCell.Tab.0.center" timestamp="1579295524274">
+    <state width="618" height="263" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579310534369" />
+    <state width="618" height="263" key="GridCell.Tab.0.center" timestamp="1579310534369">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="932" height="263" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579295524274" />
-    <state width="932" height="263" key="GridCell.Tab.0.left" timestamp="1579295524274">
+    <state width="618" height="263" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579310534369" />
+    <state width="618" height="263" key="GridCell.Tab.0.left" timestamp="1579310534369">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="932" height="263" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579295524274" />
-    <state width="932" height="263" key="GridCell.Tab.0.right" timestamp="1579295524274">
+    <state width="618" height="263" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579310534369" />
+    <state width="618" height="263" key="GridCell.Tab.0.right" timestamp="1579310534369">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="932" height="263" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579295524274" />
+    <state width="618" height="263" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579310534369" />
     <state width="932" height="332" key="GridCell.Tab.1.bottom" timestamp="1579294478513">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
