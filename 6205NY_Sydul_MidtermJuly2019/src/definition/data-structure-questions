@@ -1,33 +1,81 @@
 Please answer the below Data Structure Questions:
 
 why do we need data structure?
-A.
-
+A. to organize our code
 
 What are the various operations that can be performed on different Data Structures?
+traverse search merge insert sort delete
+
 List out the areas in which data structures are applied extensively?
+database managements, ai, simulations
+
 what is an Array?
+fixed size container for object of the same data type
+
 what is the difference between the Array and ArrayList?
+array list size is dynamic
+
 what is LinkedList?
+each element is a separate object
+
 How is an Array different from Linked List?
+each element is independent in a linked list each element is connected to the next one
+
 what is queue?
+elements are inserted at the end and removed form the beginning
+
 what is stack?
+collection that follows last in first out
+
 what is FIFO and LIFO?
+first in first out, last in first out
+
 what is the order of complexity?
+linear, iterative, factorial
+
 what is the best case to search an element from an array?
+first element
+
 what is the worst case to search an element from an array?
+comparison
+
 what is tree in data structure?
+non-linear structure thats organized in a hierarchical way
+
 what is graph in data structure?
+an object consisting of a vertex set and an edge set
+
 what is the difference between the HashTable and HashMap?
+hashtable is synchronized hashmap is not
+
 What are the major data structures used in the following areas : RDBMS, Network data model and Hierarchical data model.
-How HashMap works in java?
+
+How HashMap works in java
+HashMap implementation calls hashCode method on Key object and applies returned
+hashcode into its own hashing function to find a bucket location for storing Entry object, important point to mention is that HashMap in Java stores both key and value.
+
 What is ArrayIndexOutOfBoundsException in java? When it occurs?
+when there is an element that is being added to array outside its legnth
+
 What are the different ways of copying an array into another array?
+System.arraycopy()
+
 What is difference between an array and a linked list?
+array elements are independent linked list elements are not
+
 What is DFS and BFS?
+he breadth first search (BFS) and the depth first search (DFS) are the two algorithms used
+for traversing and searching a node in a graph. They can also be used to find out whether a node is reachable from a given node or not.
+
 What is Recursion?
+method calling on itself
+
 What are linear and non linear data Structures?
+data oranized sequentualy is linear
+
 What is Big-(O)-notation?
+the complexity and compile time for a program to execute
+
 Outlined different kind of sorting algorithm with time complexity?
 
 Draw a table with time complexity in which it will summarize all the data structure feature's advantages and disadvantages.
