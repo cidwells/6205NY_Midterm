@@ -79,11 +79,11 @@ public class EmployeeInfo extends AbstractWorker{
 		this.deptName = deptName;
 	}
 
-	public static double getSalary() {
+	public  double getSalary() {
 		return salary;
 	}
 
-	public static void setSalary(double salary) {
+	public void setSalary(double salary) {
 		EmployeeInfo.salary = salary;
 	}
 
@@ -95,7 +95,7 @@ public class EmployeeInfo extends AbstractWorker{
 	 * So you probably need to send 2 arguments.
 	 * 
 	 */
-	public static int calculateEmployeeBonus(int numberOfYearsWithCompany,double yearlySalary){
+	public int calculateEmployeeBonus(int numberOfYearsWithCompany,double yearlySalary){
 		double yearlyBonus = 0;
 		if(numberOfYearsWithCompany>=5){
 			yearlyBonus = yearlySalary *.10;
@@ -117,7 +117,7 @@ public class EmployeeInfo extends AbstractWorker{
 	 * Hints: pension will be 5% of the salary for 1 year, 10% for 2 years with the company and so on.
 	 * 
 	 */
-	public static int calculateEmployeePension(){
+	public int calculateEmployeePension(){
 		int total=0;
 		Scanner sc  = new Scanner(System.in);
 		System.out.println("Please enter start date in format (example: May,2015): ");
